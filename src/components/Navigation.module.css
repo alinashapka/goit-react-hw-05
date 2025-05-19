@@ -1,0 +1,10 @@
+.header {
+  padding: 16px;
+}
+.nav {
+  display: flex;
+  gap: 10px;
+}
+.isActive {
+  color: rgb(255, 102, 0);
+}
